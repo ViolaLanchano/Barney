@@ -71,6 +71,7 @@
           <option name="closed_captions" value="false" />
           <option name="settings" value="false" />
           <option name="fullScreenToggle" value="false" />
+          <option name="playbackSpeedControl" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="bottombaroptions">
@@ -1557,6 +1558,7 @@
         <slidelink slideid="_player.6Oheu1qrHCK" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6Oheu1qrHCK.6GjQVinaGbo" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6Oheu1qrHCK.6fIwqk4WPZd" displaytext="Untitled Slide" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
